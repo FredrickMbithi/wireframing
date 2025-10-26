@@ -1,8 +1,9 @@
 ﻿# Figmify: From Wireframe to Prototype
 
 - Weight: 1
-- Project timeline: **Start** Oct 20, 2025 12:00 AM — **End** Oct 27, 2025 12:00 AM
-- Manual QA review: Required (request after you finish the project)
+- Ongoing second chance project - started Oct 20, 2025 12:00 AM, must end by Nov 3, 2025 12:00 AM
+- Manual QA review must be done (request it when you are done with the project)
+- An auto review will be launched at the deadline
 
 ## Introduction to Wireframing
 
@@ -123,12 +124,12 @@ How to request Manual QA review
 
 - On the learning platform or course site, navigate to the project submission page for "Figmify: From Wireframe to Prototype."
 - Upload or link your GitHub repository (provide the URL to this repo's `README.md`).
-- Use the platform's "Request Manual Review" option. Mention that the repository includes both low-fidelity sketches and a high-fidelity Figma prototype (if provided).
+- Use the platform's "Request Manual Review" option. Mention that the repository includes both low-fidelity sketches and a high-fidelity Figma prototype (if provided). Make the request before Nov 3, 2025 12:00 AM so you can generate the review link; an auto-review will also run at the deadline.
 
 ## Project Assessment Notes
 
 - This project is graded by manual review — make sure all files are present and accessible before requesting review.
-- There is a time-sensitive requirement: requests must be made before the deadline shown at the top of this README.
+- There is a time-sensitive requirement: requests must be made before Nov 3, 2025 12:00 AM; an automated check and auto-review will run at that deadline.
 
 ## Next steps (suggested)
 
